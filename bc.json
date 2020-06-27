@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://f0300da4-9485-4377-bdba-baad859d67f9.ws-us02.gitpod.io",
+    "address": "https://d4a2b8e4-ed76-4563-b8b0-a87bff755a0e.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -72,6 +72,7 @@
         {
             "slug": "05-Defining-vs-Calling-a-function",
             "title": "05-Defining-vs-Calling-a-function",
+            "done": true,
             "path": "exercises/05-Defining-vs-Calling-a-function",
             "translations": [
                 "es",
@@ -82,6 +83,7 @@
         {
             "slug": "06-Anonymous-functions",
             "title": "06-Anonymous-functions",
+            "done": true,
             "path": "exercises/06-Anonymous-functions",
             "translations": [
                 "es",
@@ -92,6 +94,7 @@
         {
             "slug": "07-Arrow-Functions",
             "title": "07-Arrow-Functions",
+            "done": true,
             "path": "exercises/07-Arrow-Functions",
             "translations": [
                 "es",
@@ -102,6 +105,7 @@
         {
             "slug": "08-Function-that-returns",
             "title": "08-Function-that-returns",
+            "done": true,
             "path": "exercises/08-Function-that-returns",
             "translations": [
                 "es",
@@ -122,6 +126,7 @@
         {
             "slug": "10-Array-Methods",
             "title": "10-Array-Methods",
+            "done": true,
             "path": "exercises/10-Array-Methods",
             "translations": [
                 "es",
